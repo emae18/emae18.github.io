@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/8bd86bb9-aa4a-4bc7-80b9-c48d0d091d67/resourceGroups/bdTest/providers/Microsoft.Web/sites/emae",
-    "appService.deploySubpath": ""
-}
